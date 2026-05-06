@@ -1,4 +1,4 @@
-[
+countries_data = [
     {
         "name": "Afghanistan",
         "capital": "Kabul",
@@ -2618,3 +2618,4 @@
         "currency": "Botswana pula"
     }
 ]
+

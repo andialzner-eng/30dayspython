@@ -195,3 +195,8 @@ countries = [
   'Zambia',
   'Zimbabwe'
 ];
+
+for country in countries:
+    if "land" in country:
+        print(country)
+        
